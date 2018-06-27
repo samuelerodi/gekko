@@ -19,6 +19,7 @@ api-keys.js
 .project
 .settings
 .tmproj
+.vagrant
 nbproject
 *.sublime-project
 *.sublime-workspace
